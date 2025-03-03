@@ -10,7 +10,7 @@ I'm [Mohammad Alkhayat] – a passionate **3D Designer**, **Developer**, **UI/UX
 ## 📫 Connect with Me
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/ALKHIA6)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-alkhayat-1a2762291)
-[![Other Accounts](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=internet-explorer&logoColor=white)](https://solo.to/kya6)
+[![Other_Accounts](https://img.shields.io/badge/-Portfolio-green?style=flat-square&logo=internet-explorer&logoColor=white)](https://solo.to/kya6)
 
 ## ⚡ Technologies I Work With:
 - 🖥 **Languages:** Java, Python, Dart, HTML, CSS
@@ -20,4 +20,7 @@ I'm [Mohammad Alkhayat] – a passionate **3D Designer**, **Developer**, **UI/UX
 ---
 
 ⭐️ **Star my repos if you find them helpful!**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
