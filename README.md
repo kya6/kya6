@@ -1,22 +1,20 @@
-# Welcome to my page! 👋
-I'm Mohammad Alkhayat – a passionate **3D Designer**, **Developer**, **UI/UX Designer**, and **Content Creator**.
+# 🐱‍👤 Who's M0X?
 
-## 🚀 About Me
-- 🎨 I specialize in **3D printing & UI/UX design**.
-- 🎬 I create **motion graphics & vlogs**.
-- 💻 I develop programs using **Java, Python, Dart, HTML, and CSS**.
-- 🚀 I am currently learning **Web Technologies, App Development, Discord Bots**
+Name's Mohammad Alkhayat, I'm a multidisciplinary designer and focused on user experience and product design. I'm Interested in game development and immersive experiences.
 
-## 📫 Connect with Me
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://x.com/ALKHIA6)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-alkhayat-1a2762291)
-[![Others](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=internet-explorer&logoColor=white)](https://solo.to/kya6)
+![Logo](https://github.com/kya6/kya6/blob/dfe5055d2447361b002ebb875f4723573a3aeb1b/M0X-logo.png)
 
-## ⚡ Technologies I Work With:
-- 🖥 **Languages:** Java, Python, Dart, HTML, CSS
-- 🎨 **Design:** Figma, Adobe After Effects, Blender, Onshape
-- 🛠 **Tools:** VSCode, Git, GitHub
 
----
+## 🔗 Follow me
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://solo.to/kya6)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ALKHIA6)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-khayat)
 
-⭐️ **Star my repos if you find them helpful!**
+
+## 🛠 Skills Stack
+
+[![Languages](https://skillicons.dev/icons?i=html,css,js,cs,java,bootstrap,react,tailwind)](https://skillicons.dev)
+
+[![Tools](https://skillicons.dev/icons?i=figma,notion,blender,unity,git,pr,ae,ai)](https://skillicons.dev)
+
+
