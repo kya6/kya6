@@ -1,4 +1,4 @@
-# 🐱‍👤 Who's M0X?
+# 🐱‍👤 Who's M0𝕏?
 Name's Mohammad Alkhayat, I'm a multidisciplinary designer and focused on user experience and product design. I'm Interested in game development and immersive experiences.
 
 <p align="center">
