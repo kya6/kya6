@@ -6,9 +6,11 @@ Name's Mohammad Alkhayat, I'm a multidisciplinary designer and focused on user e
 </p>
 
 ## 🔗 Follow me
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://solo.to/kya6)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ALKHIA6)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-khayat)
+<p align="center">
+  <a href="https://solo.to/kya6"><img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white"/></a>
+  <a href="https://x.com/ALKHIA6"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/al-khayat"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
 
 ## 🛠 Skills Stack
 <p align="center">
