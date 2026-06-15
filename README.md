@@ -15,7 +15,7 @@ Name's Mohammad Alkhayat, I'm a multidisciplinary designer and focused on user e
 ## 🛠 Skills Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cs,java,bootstrap,react,tailwind"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,cs,java,bootstrap,react,tailwind"/>
   </a>
 </p>
 <p align="center">
